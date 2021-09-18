@@ -1,0 +1,23 @@
+body {
+	background-color : rgb(255,255,255)
+}
+
+h1,h6 {
+font-style:italic;
+font-size: 30px;
+text-align: center;
+}
+img {
+	border: 2px solid red;
+	
+}
+
+li{
+color:green;
+font-size: 12px;
+text-familly: cambria;
+}
+
+ol li{
+	padding:2px;
+}
