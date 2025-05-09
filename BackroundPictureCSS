@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('1000017940.jpg'); /* Remplacez par le chemin de votre image */
+  background-size: cover; /* L’image couvre tout l’écran */
+  background-position: center; /* Centrer l’image */
+  background-repeat: no-repeat; /* Pas de répétition de l’image */
+  height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.contenu {
+  color: white;
+  text-align: center;
+  padding-top: 20%;
+  background-color: rgba(0, 0, 0, 0.4); /* optionnel : fond semi-transparent */
+}
